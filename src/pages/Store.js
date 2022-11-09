@@ -1,5 +1,5 @@
 import { Row, Col } from "react-bootstrap";
-import { products } from "../ProductStore";
+import { products } from "../productsStore";
 import ProductCard from "../components/ProductCard";
 
 function Store() {
